@@ -18,4 +18,4 @@ Bitte halten Sie sich an unseren Verhaltenskodex, der eine respektvolle und posi
 Wenn Sie Fragen haben, können Sie jederzeit ein Issue im Repository erstellen oder uns direkt kontaktieren.
 
 ## Häufige Fragen
-Um häufige Fragen zu klären, haben wir einen Abschnitt mit häufig gestellten Fragen hinzugefügt. Sie finden ihn [hier](link-zu-häufigen-fragen).
+Um häufige Fragen zu klären, haben wir einen Abschnitt mit häufig gestellten Fragen hinzugefügt. Sie finden ihn [hier](https://example.com/faq).
