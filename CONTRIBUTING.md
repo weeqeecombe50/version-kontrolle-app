@@ -5,7 +5,7 @@ Vielen Dank, dass Sie daran interessiert sind, zur Versionskontrolle App beizutr
 ## Beitrag leisten
 1. **Fork des Repositories:** Erstellen Sie Ihren eigenen Fork des Projekts.
 2. **Branch erstellen:** Erstellen Sie einen neuen Branch für Ihre Änderungen, z.B. `git checkout -b feature/IhreFunktion`.
-3. **Änderungen vornehmen:** Machen Sie Ihre Änderungen und testen Sie diese gründlich.
+3. **Änderungen vornehmen:** Machen Sie Ihre Änderungen und testen Sie diese gründlich. Stellen Sie sicher, dass Sie alle Tests bestehen und bei Bedarf neue Tests hinzufügen.
 4. **Pull-Request:** Senden Sie einen Pull-Request, um Ihre Änderungen zur Überprüfung einzureichen.
 
 ## Code-Formatierung
