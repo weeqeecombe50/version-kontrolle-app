@@ -8,6 +8,9 @@ Vielen Dank, dass Sie daran interessiert sind, zur Versionskontrolle App beizutr
 3. **Änderungen vornehmen:** Machen Sie Ihre Änderungen und testen Sie diese gründlich.
 4. **Pull-Request:** Senden Sie einen Pull-Request, um Ihre Änderungen zur Überprüfung einzureichen.
 
+## Code-Formatierung
+Bitte stellen Sie sicher, dass Ihr Code gut formatiert und an die Stilrichtlinien des Projekts angepasst ist, bevor Sie einen Pull-Request senden.
+
 ## Verhaltenskodex
 Bitte halten Sie sich an unseren Verhaltenskodex, der eine respektvolle und positive Umgebung für alle Mitwirkenden fördert.
 
