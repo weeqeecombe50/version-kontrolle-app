@@ -6,3 +6,6 @@ __pycache__/
 .DS_Store
 .env
 *.egg-info/
+*.log
+*.lock
+Thumbs.db
