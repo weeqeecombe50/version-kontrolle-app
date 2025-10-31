@@ -1,11 +1,11 @@
 # Mitwirkende
 
-Vielen Dank, dass Sie daran interessiert sind, zur Version Kontrolle App beizutragen! Hier sind einige Richtlinien, die Sie beachten sollten:
+Vielen Dank, dass Sie daran interessiert sind, zur Versionskontrolle App beizutragen! Hier sind einige Richtlinien, die Sie beachten sollten:
 
 ## Beitrag leisten
 1. **Fork des Repositories:** Erstellen Sie Ihren eigenen Fork des Projekts.
-2. **Branch erstellen:** Erstellen Sie einen neuen Branch für Ihre Änderungen. Z.B. `git checkout -b feature/IhreFunktion`
-3. **Änderungen vornehmen:** Machen Sie Ihre Änderungen und testen Sie sie gründlich.
+2. **Branch erstellen:** Erstellen Sie einen neuen Branch für Ihre Änderungen, z.B. `git checkout -b feature/IhreFunktion`.
+3. **Änderungen vornehmen:** Machen Sie Ihre Änderungen und testen Sie diese gründlich.
 4. **Pull-Request:** Senden Sie einen Pull-Request, um Ihre Änderungen zur Überprüfung einzureichen.
 
 ## Verhaltenskodex
